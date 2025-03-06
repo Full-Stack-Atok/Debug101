@@ -12,3 +12,4 @@ C:\Users\magne\Downloads\Debug101\obj\Debug\net9.0\refint\Debug101.dll
 C:\Users\magne\Downloads\Debug101\obj\Debug\net9.0\Debug101.pdb
 C:\Users\magne\Downloads\Debug101\obj\Debug\net9.0\Debug101.genruntimeconfig.cache
 C:\Users\magne\Downloads\Debug101\obj\Debug\net9.0\ref\Debug101.dll
+C:\Users\magne\Downloads\Debug101\obj\Debug\net9.0\Debug101.sourcelink.json
